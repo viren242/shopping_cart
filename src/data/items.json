@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "name": "Book",
+      "price": 10.99,
+      "imgUrl": "/images/book.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Computer",
+      "price": 1199,
+      "imgUrl": "/images/computer.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Banana",
+      "price": 1.05,
+      "imgUrl": "/images/banana.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/images/car.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Bed",
+      "price": 119.99,
+      "imgUrl": "/images/bed.jpg"
+    },
+    {
+      "id": 6,
+      "name": "football",
+      "price": 11.99,
+      "imgUrl": "/images/football.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Headphone",
+      "price": 110.79,
+      "imgUrl": "/images/headphone.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Lanten",
+      "price": 15.00,
+      "imgUrl": "/images/lanten.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Laptop",
+      "price": 1499.99,
+      "imgUrl": "/images/laptop.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Night Lamp",
+      "price": 55.49,
+      "imgUrl": "/images/nightlamp.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Orange",
+      "price": 1.99,
+      "imgUrl": "/images/orange.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Pineapple",
+      "price": 2.99,
+      "imgUrl": "/images/pineapple.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Shirt",
+      "price": 124.99,
+      "imgUrl": "/images/shirt.jpg"
+    },
+    {
+      "id": 14,
+      "name": "T-shirt",
+      "price": 13.50,
+      "imgUrl": "/images/tshirt.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Suit",
+      "price": 1249.99,
+      "imgUrl": "/images/suit.jpg"
+    }
+  ]
