@@ -1,7 +1,16 @@
 # SHOPPING CART
 
-Link: https://adv-shopping-cart.netlify.app/
+* Netlify URL: https://adv-shopping-cart.netlify.app/
+* Git URL: https://github.com/viren242/shopping_cart
 
-## Created Using:
+## Authors
 
-React.js, Typescript, Context, HTML, and Bootstrap CSS
+* [Viren Babubhai Malavia](viren.malavia@dal.ca) - *(Developer)*
+
+## Built With
+
+* React.js
+* Typescript
+* Context
+* HTML5
+* Bootstrap CSS
